@@ -1,13 +1,13 @@
-package br.com.alura.scrennmatch;
+package br.com.alura.screennmatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ScrennmatchApplication {
+public class ScreennmatchApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ScrennmatchApplication.class, args);
+		SpringApplication.run(ScreennmatchApplication.class, args);
 	}
 
 }
