@@ -3,16 +3,21 @@
 <h4> Neste projeto Java_Web desenvolvido junto ao curso Alura,
 será feito uma plataforma de filmes para a qual vamos cadastrar e listar os filmes </h4>
 
-<div align="center">Abaixo, temos uma tela que do projeto:
+![687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d524544267374796c653d666f722d7468652d6261646765](https://github.com/judsonmarques/Alura_Screen_Match/assets/49903672/b61ec30d-31d5-4c7e-9046-7168f490f7d5)
+
+
+<div align="center">Abaixo, temos uma tela que do projeto:</div>
 
 <div align="center">
 <img src="https://github.com/judsonmarques/Alura_Screen_Match/assets/49903672/49fb71d2-47f4-4a7c-a918-d752af821d29" width="350px" />
 </div>
 
-<div align="center">precisaremos implementar o formulário da imagem acima. Para isso, utilizaremos tecnologias web como o HTML integrado ao código em Java.
+<div align="center">precisaremos implementar o formulário da imagem acima. Para isso, utilizaremos tecnologias web como o HTML integrado ao código em Java.</div>
+
 ````
-  MAVEN
-  SPRING
-  MySQL
-  JAVA/JPA
+MAVEN
+SPRING
+MySQL
+JAVA/JPA
 ````
+  
