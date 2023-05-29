@@ -19,5 +19,14 @@ MAVEN
 SPRING
 MySQL
 JAVA/JPA
+THYMELEAF
 ````
+Spring Initilizr:
+- JAVA 17
+- MAVEN
+- Spring boot 3.0.
   
+Dependencias:
+- Spring Boot DeVTools
+- Spring Web
+- Thymeleaf
