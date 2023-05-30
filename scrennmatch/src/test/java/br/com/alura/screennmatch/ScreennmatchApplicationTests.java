@@ -1,10 +1,10 @@
-package br.com.alura.scrennmatch;
+package br.com.alura.screennmatch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ScrennmatchApplicationTests {
+class ScreennmatchApplicationTests {
 
 	@Test
 	void contextLoads() {
