@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ScreennmatchApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ScreennmatchApplication.class, args);
 	}
 
