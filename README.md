@@ -14,6 +14,7 @@ será feito uma plataforma de filmes para a qual vamos cadastrar e listar os fil
 
 <div align="center">precisaremos implementar o formulário da imagem acima. Para isso, utilizaremos tecnologias web como o HTML integrado ao código em Java.</div>
 
+O que será utilizado neste projeto:
 ````
 MAVEN
 SPRING
