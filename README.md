@@ -30,3 +30,9 @@ Dependencias:
 - Spring Boot DeVTools
 - Spring Web
 - Thymeleaf
+
+Neste projeto será usado o padrão MVC (Model - View - Controller), separando as responsabilidades das classes e organizando o código;
+Criar uma classe Controller, usando as anotações @Controller e @RequestMapping, para que ao digitar a url com o sufixo /filmes seja direcionado para esse controlador;
+Criar um método que será executado quando houver uma requisição do tipo GET, usando a anotação @GetMapping;
+Configurar o IntelliJ para permitir o live reload do projeto com o uso do DevTools;
+Criar um método que será executado quando houver uma requisição do tipo POST, usando a anotação @PostMapping;
